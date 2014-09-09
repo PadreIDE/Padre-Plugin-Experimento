@@ -15,7 +15,7 @@ test_requires 'Test::More' => '0.88';
 no_index 'directory' => qw{ t share inc};
 homepage 'http://padre.perlide.org/trac/wiki/PadrePluginExperimento';
 bugtracker 'http://padre.perlide.org/';
-repository 'http://svn.perlide.org/padre/trunk/Padre-Plugin-Experimento';
+repository 'https://github.com/PadreIDE/Padre-Plugin-Experimento';
 
 install_share_with_mofiles;
 
